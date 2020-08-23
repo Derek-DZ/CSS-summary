@@ -188,9 +188,8 @@ span {
 
 ### 盒模型示意图
 
-![盒模型示意图](img/盒模型示意图.png)
-
-- _图片来自杭州饥人谷教程_
+![盒模型示意图](img/盒模型示意图.png)  
+_图片来自杭州饥人谷教程_
 
 - CSS 盒模型分两种，一种是 content-box，一种是 border-box
 - 它们的区别是 content-box 宽高只包含 content
@@ -341,9 +340,8 @@ span {
    }
    ```
 
-   ![grid行列](img/行和列.png)
-
-   - _图片来自杭州饥人谷教程_
+   ![grid行列](img/行和列.png)  
+   _图片来自杭州饥人谷教程_
 
    1. 划分行和列（按份划分 free-space）（适用于平均布局）
 
@@ -406,9 +404,8 @@ span {
 
 ### 层叠上下文
 
-![层叠上下文](img/层叠上下文.png)
-
-- _图片来自杭州饥人谷教程_
+![层叠上下文](img/层叠上下文.png)  
+_图片来自杭州饥人谷教程_
 
 1. z-index
    **有 position 才能用**
@@ -433,7 +430,7 @@ span {
 
 ### 浏览器渲染方式
 
-![CSS三种渲染方式](img/3种更新方式.png)
+![CSS三种渲染方式](img/3种更新方式.png)  
 _图片来自杭州饥人谷教程_
 
 - 每个属性影响的渲染方式查询网站：https://csstriggers.com
@@ -537,7 +534,8 @@ _图片来自杭州饥人谷教程_
    ```
 
 - @keyframes 完整语法
-  ![@Keyframes完整语法](img/@keyframes写法.png)
+  ![@Keyframes完整语法](img/@keyframes写法.png)  
+  _图片来自杭州饥人谷教程_
 
   1. 搜索 keyframes MDN 讲得很清楚
   2. 一种写法是 from to
